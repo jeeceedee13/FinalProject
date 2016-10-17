@@ -1,0 +1,24 @@
+{
+  "surveys": [
+    {
+      "name": "Ashton Racing Team",
+      "color": "59mm 160cc",
+      "gender": "400 Meters",
+      "movies": [
+        "Automatic Transmission"
+      ],
+      "suggestion": "Potang ina nyo",
+      "id": 1
+    },
+    {
+      "name": "Plazaboys Mandaue",
+      "color": "62mm Camgear Raider 150cc (Breedwars Rules)",
+      "gender": "400 Meters",
+      "movies": [
+        "Manual Transmission Clutching"
+      ],
+      "suggestion": "Potang ina nyo rin asdaskdhgfaghksdgfjha",
+      "id": 2
+    }
+  ]
+}
